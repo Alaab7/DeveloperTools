@@ -8,6 +8,7 @@ The UtilityHelper library is a general-purpose utility library for Android devel
 You can easily add this library to your project by adding the following dependency to your build.gradle file:
 
 ```groovy
+	        implementation 'com.github.Alaab7:DeveloperTools:-SNAPSHOT'
 
 ```
 
